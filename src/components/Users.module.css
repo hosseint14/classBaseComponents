@@ -1,0 +1,24 @@
+.users {
+  margin: 2rem auto;
+  background-color: white;
+  padding: 1rem;
+  border-radius: 12px;
+  max-width: 40rem;
+  text-align: center;
+}
+
+.users ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.users button {
+  background-color: blueviolet;
+  color: white;
+  border-radius: 12px;
+  text-align: center;
+  font-style: bold;
+  font-size: large;
+  padding: 12px;
+}
